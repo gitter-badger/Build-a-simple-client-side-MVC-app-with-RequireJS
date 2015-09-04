@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>A simple Require JS Tutorial (MVC Architect)</title>
+	<link rel="stylesheet" href="css/project.css">
+</head>
+<body>
+	<section>
+		<h1>My Students</h1>
+		<nav>
+			<a href="#list">List of students</a> |
+			<a href="#add">Add Students</a>
+		</nav>
+		<!-- THIS DIV IS WHERE THE MAGIC OF MVC WILL HAPPEN -->
+		<div id="app"></div>
+	</section>
+	<!-- DATA-MAIN IS THE ENTRY POINT OF THIS PROJECT - requireJS pass value to this attribute -->
+	<script data-main="js/main" src="js/require.js"></script>
+</body>
+</html>
