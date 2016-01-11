@@ -1,4 +1,6 @@
 # Build-a-simple-client-side-MVC-app-with-RequireJS
+
+[![Join the chat at https://gitter.im/bbayo4/Build-a-simple-client-side-MVC-app-with-RequireJS](https://badges.gitter.im/bbayo4/Build-a-simple-client-side-MVC-app-with-RequireJS.svg)](https://gitter.im/bbayo4/Build-a-simple-client-side-MVC-app-with-RequireJS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 As a web developer, you certainly often started coding your JavaScript in a single file, and, 
 as the code base gets bigger, it became really difficult to maintain. To solve this problem you 
 can split your code in several files, add more script tags and use global variables to reach functions 
